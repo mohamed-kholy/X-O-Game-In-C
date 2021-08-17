@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629228416 source:c:\users\mohamed el-kholy\codeblock\x_o_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1629227242 c:\users\mohamed el-kholy\codeblock\x_o_game\header.h
+
